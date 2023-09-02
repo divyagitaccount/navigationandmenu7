@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">navigation and menu7</string>
+    <string name="my_profile">my_profile</string>
+    <string name="settings">settings</string>
+    <string name="logout">logout</string>
+    <string name="header_layout">Header layout</string>
+</resources>
